@@ -24,6 +24,11 @@ This project involves the design, assembly, and testing of a USB to TTL converte
   ---  
   This repository is dedicated to **learning PCB design and electronics from scratch**. It covers everything from circuit theory to practical PCB layout techniques, including routing strategies, best practices, and component placement. Whether you're a beginner or an experienced designer, this resource will help you **improve your PCB design skills and create professional-quality boards**.
 
+- [Microcontroller Training](https://github.com/aKaReZa75/Microcontroller)  
+  ---  
+  This repository offers a comprehensive guide to learning **various microcontrollers** and how to interface them with different shields. You’ll find tutorials on **using and configuring shields**, along with hands-on projects to help you **get your microcontrollers up and running**. Whether you're working with **Arduino, STM32, ESP32**, or others, this resource will help you understand how to integrate these platforms effectively for your projects.
+
+
 ## Project Videos
 - [aKaReZa 43 - PCB, USB to TTL](https://youtu.be/CHOmadm1B9U)  
   ---  
