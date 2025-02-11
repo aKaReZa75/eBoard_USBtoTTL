@@ -15,6 +15,15 @@ This project involves the design, assembly, and testing of a USB to TTL converte
 | Converter IC         | CH340                        |
 | USB Port             | USB-A                        |
 
+## Resources
+- [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
+  ---  
+   All PCB designs across all repositories and projects are built using this Altium Designer component library. It contains a wide range of verified footprints, schematic symbols, and 3D models, ensuring consistency and accuracy in PCB designs. If you're working on a new PCB, using this library will save you time and minimize errors.
+
+- [PCB & Electronics Design Training](https://github.com/aKaReZa75/PCB)  
+  ---  
+  This repository is dedicated to **learning PCB design and electronics from scratch**. It covers everything from circuit theory to practical PCB layout techniques, including routing strategies, best practices, and component placement. Whether you're a beginner or an experienced designer, this resource will help you **improve your PCB design skills and create professional-quality boards**.
+
 ## Project Videos
 - [aKaReZa 43 - PCB, USB to TTL](https://youtu.be/CHOmadm1B9U)  
   ---  
