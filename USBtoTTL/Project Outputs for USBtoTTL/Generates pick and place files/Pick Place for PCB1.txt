@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+E:\aKaReZa\#gitHub\eBoard_USBtoTTL\USBtoTTL\Project Outputs for USBtoTTL\Generates pick and place files\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/03/25
+Time:       19:46
+Revision:   954ed481b0256fc275dfe0e39afb9debea0fe466
+Variant:    No variations
+Units used: mm
+
+Designator Comment  Layer    Footprint              Center-X(mm) Center-Y(mm) Rotation Description                     
+J2         "Type A" TopLayer USB_A_TYPE_Right_Angle 4.0000       12.0650      180      "USB Connector-A Type"          
+Y1         12M      TopLayer Crystal_SMD            13.0810      2.5400       180      "Crystal Oscillator"            
+U1         CH340G   TopLayer SO16_M                 17.0180      14.4780      0        "TTL To USB Chip"               
+J1         4        TopLayer HDR_THT_4F_2.54mm      26.0350      9.9060       270      "Header, single row, 4 pin"     
+F1         100m     TopLayer 1206_F                 9.5250       21.4632      0        "Short circiut  protection"     
+C3         100n     TopLayer CAP_1206/3216          17.2720      21.3360      180      "Bipolar ceramic capacitor SMD" 
+C1         10u      TopLayer CAP_ALUM_5MM           24.6380      19.7390      270      "Electrolit Capacitor SMD"      
+C2         10n      TopLayer CAP_1206/3216          9.5250       15.7480      180      "Bipolar ceramic capacitor SMD" 
+C5         22p      TopLayer CAP_1206/3216          10.1600      6.4770       0        "Bipolar ceramic capacitor SMD" 
+C4         22p      TopLayer CAP_1206/3216          16.6370      6.4770       180      "Bipolar ceramic capacitor SMD" 
