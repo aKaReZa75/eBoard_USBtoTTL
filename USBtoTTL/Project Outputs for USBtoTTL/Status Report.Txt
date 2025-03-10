@@ -1,10 +1,14 @@
-Output: PCB_WithOUT_3D
-Type  : Universal Exporter
-From  : PCB Document [PCB1.PcbDoc]
-   Generated File[PCB1.PcbDoc]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:52:24 PM On 3/10/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [USBtoTTL.PrjPcb]
+   Generated File[Bill of Materials-USBtoTTL.pdf]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 7:46:37 PM On 3/10/2025
+Finished Output Generation At 10:52:26 PM On 3/10/2025
