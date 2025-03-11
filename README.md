@@ -1,7 +1,7 @@
 # USBtoTTL
 This project involves the design, assembly, and testing of a USB to TTL converter. The converter is simple, compact, and cost-effective, making it a great addition to your electronics toolkit. Ideal for serial communication between your computer and microcontrollers or other devices, this project walks you through every step from schematic design to final testing.
 
-![USB to TTL Converter](Images/USBtoTTL1.jfif)
+![USB to TTL Converter](Images/USBtoTTL1.png)
 ![USB to TTL Converter](Images/USBtoTTL2.jfif)
 
 > [!CAUTION]
