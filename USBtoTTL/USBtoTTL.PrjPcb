@@ -100,6 +100,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=PCB1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BZLLBUTO
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for USBtoTTL\Bill of Materials\Bill of Materials-USBtoTTL.pdf
 DItemRevisionGUID=
@@ -181,44 +198,48 @@ DocumentPath=Project Outputs for USBtoTTL\Generates pick and place files\Pick Pl
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz5051.xls
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz2708.xls
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz8111.xls
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz5051.xls
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzC991.xls
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz8111.xls
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzFB48.xls
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzC991.xls
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzFF56.xls
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzFB48.xls
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for USBtoTTL\Report Project Hierarchy\USBtoTTL.REP
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzFF56.xls
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for USBtoTTL\Report Project Hierarchy\USBtoTTL.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for USBtoTTL\Report Single Pin Nets\USBtoTTL.REP
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=1.0
-
-[Parameter2]
 Name=CompanyName
 Value=github.com/aKaReZa75
 
-[Parameter3]
+[Parameter2]
 Name=Project_Name
 Value=USB to TTL
+
+[Parameter3]
+Name=Revision
+Value=1.0
 
 [Configuration1]
 Name=Sources
