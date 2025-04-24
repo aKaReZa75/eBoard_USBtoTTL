@@ -36,13 +36,44 @@ This project involves the design, assembly, and testing of a USB to TTL converte
 
 
 ## Project Videos
-- [aKaReZa 43 - PCB, USB to TTL](https://youtu.be/CHOmadm1B9U)  
-  ---  
-  In this video, we design a USB to TTL converter in a very simple, compact, and cost-effective manner based on a request from one of the channel’s respected viewers.
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/CHOmadm1B9U">aKaReZa 43 – PCB, USB to TTL</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we design a USB to TTL converter in a very simple, compact, and cost-effective manner based on a request from one of the channel’s respected viewers.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/CHOmadm1B9U">
+        <img src="https://img.youtube.com/vi/CHOmadm1B9U/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 43 – PCB, USB to TTL Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKaReZa 51 - Repair, USB to TTL Soldering](https://youtu.be/JnmfULXj2iA)  
-  ---  
-  In this video, we solder and test the USB to UART converter that we designed. Additionally, we learned how to solder SMD ICs using two methods and covered important tips for testing the module.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/JnmfULXj2iA">aKaReZa 51 – Repair, USB to TTL Soldering</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we solder and test the USB to UART converter that we designed. Additionally, we learned how to solder SMD ICs using two methods and covered important tips for testing the module.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/JnmfULXj2iA">
+        <img src="https://img.youtube.com/vi/JnmfULXj2iA/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 51 – Repair, USB to TTL Soldering Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
