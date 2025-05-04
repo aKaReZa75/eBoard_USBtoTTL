@@ -3,8 +3,8 @@ This section provides a comprehensive list of components required for the "USB t
 Each item includes direct purchase links from reliable Iranian electronics suppliers, with recommended quantities for both essential needs and future prototyping.
 
 ## Capacitor
+- [ ] [**Cap_1206_18p**](https://lionelectronic.ir/products/1992-1206CG180J500NT) Quantity: 2, Prefer: 25, Supplier: LionElectronic **(Instead of: Cap_1206_22p)**
 - [ ] [**Cap_1206_10n**](https://lionelectronic.ir/products/2016-1206B103K500NT) Quantity: 1, Prefer: 25, Supplier: LionElectronic
-- [ ] [**Cap_1206_18n**](https://lionelectronic.ir/products/1992-1206CG180J500NT) Quantity: 2, Prefer: 25, Supplier: LionElectronic **(Instead of: Cap_1206_22n)**
 - [ ] [**Cap_1206_100n**](https://lionelectronic.ir/products/5156-C3216NP01H104J160AA) Quantity: 1, Prefer: 25, Supplier: LionElectronic
 - [ ] [**Cap_Aluminum_10u_25V**](https://lionelectronic.ir/products/2930-VZH100M1ETR-0406) Quantity: 1, Prefer: 5, Supplier: LionElectronic 
 
