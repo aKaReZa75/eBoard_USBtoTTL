@@ -19,20 +19,6 @@ Each item includes direct purchase links from reliable Iranian electronics suppl
 - [ ] [**Fuse_1206_0.5A**](https://lionelectronic.ir/products/1891-JFC1206-0500FS-63V-0.5A) Quantity: 1, Prefer: 5, Supplier: LionElectronic  **(Instead of: Fuse_1206_0.1A)**
 - [ ] [**Crystal 12MHz**](https://lionelectronic.ir/products/2096-XTAL-12MHZ%28HC-49SMD%29) Quantity: 1, Prefer: 5, Supplier: LionElectronic
 
-## Semiconductore
-- [ ] [**Semi_BJT_BC817**](https://lionelectronic.ir/products/134-BC817-40) Quantity: 2, Prefer: 10, Supplier: LionElectronic 
-- [ ] [**Semi_Diod_TVS_SMF05**](https://lionelectronic.ir/products/121-SMF05C.TCT) Quantity: 1, Prefer: 5, Supplier: LionElectronic 
-- [ ] [**Semi_Diod_Zener_SMD**](https://lionelectronic.ir/products/2359-ZMM5V1) Quantity: 1, Prefer: 5, Supplier: LionElectronic 
-- [ ] [**Semi_1N5819**](https://roboeq.ir/products/detail/0304143/%D8%AF%DB%8C%D9%88%D8%AF-%D8%B4%D8%A7%D8%AA%DA%A9%DB%8C-1-%D8%A2%D9%85%D9%BE%D8%B1-40-%D9%88%D9%84%D8%AA-SS14/) Quantity: 3, Prefer: 10, Supplier: RoboEQ
-- [ ] [**LED_0805_Red**](https://lionelectronic.ir/products/2207-XL-2012SURC) Quantity: 1, Prefer: 10, Supplier: LionElectronic  
-- [ ] [**LED_0805_Blue**](https://lionelectronic.ir/products/3268-XL-2012UBC) Quantity: 2, Prefer: 10, Supplier: LionElectronic  
-- [ ] [**LED_0805_Yellow**](https://lionelectronic.ir/products/3267-XL-2012UYC) Quantity: 1, Prefer: 10, Supplier: LionElectronic  
-- [ ] [**LED_0805_Green**](https://lionelectronic.ir/products/3265-XL-2012SYGC) Quantity: 4, Prefer: 10, Supplier: LionElectronic
-
-## Switch
-- [ ] [**SW_Relay**](https://roboeq.ir/products/detail/0308060/%D8%B1%D9%84%D9%87-12-%D9%88%D9%84%D8%AA-%D8%AA%DA%A9-%DA%A9%D9%86%D8%AA%D8%A7%DA%A9%D8%AA-10-%D8%A2%D9%85%D9%BE%D8%B1-5-%D9%BE%DB%8C%D9%86/) Quantity: 3, Prefer: 5, Supplier: RoboEQ
-- [ ] [**SW_PushButton-6-3.7-2.5**](https://lionelectronic.ir/products/4165-TS365TP) Quantity: 2, Prefer: 10, Supplier: LionElectronic
-
 # 🌟 Support Me
 If you found this repository useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).
