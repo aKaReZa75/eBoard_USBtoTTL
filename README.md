@@ -63,6 +63,20 @@ This project involves the design, assembly, and testing of a USB to TTL converte
   This document provides links to trusted suppliers where you can purchase all the essential components for this project, ensuring quality and reliability.
 
 ## Project Videos
+
+```plaintext
+USB to TTL Converter
+   ├── [aKaReZa 43 - eBoard, USB to TTL]
+   │   ├─ Design — CH340G circuit, UART setup, crystal, capacitors, fuse.
+   │   ├─ Layout — PCB dimensions, routing, component placement.
+   │   └─ Finalization — Designators, reference guidance.
+   │
+   └── [aKaReZa 51 - Repair, USB to TTL Soldering]
+       ├─ Assembly — SMD soldering techniques and paste use.
+       ├─ Testing — Final module validation and component review.
+       └─ PCB Handling — Cutout creation and physical optimization.
+```
+
 <table style="border-collapse: collapse;">
   <tr>
     <td valign="top" style="padding: 0 10px;">
