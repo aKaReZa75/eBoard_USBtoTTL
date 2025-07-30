@@ -3,6 +3,11 @@ This project involves the design, assembly, and testing of a USB to TTL converte
 
 ![USB to TTL Converter](Images/USBtoTTL.png)
 
+> [!IMPORTANT]
+> Before sending the board files for PCB fabrication, **always make sure you are using the latest released version** of the project.
+> Hardware issues or design flaws might exist in earlier versions and could be fixed in newer releases.
+> To avoid costly mistakes and ensure the best performance, always refer to the **[Releases](../../releases)** section, where all known issues, updates, and version-specific notes are clearly documented.
+
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
